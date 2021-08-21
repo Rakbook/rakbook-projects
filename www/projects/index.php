@@ -4,7 +4,7 @@
 </head>
 <body>
 	<h1>Rakbook Community Projects</h1>
-	accessed at https://<i>name of the project</i>.rakbook.pl<br>
+	accessed at https://<i>name of the project</i>.projects.rakbook.pl<br>
 	List of projects:<br>
 	<ul>
 	<?php
